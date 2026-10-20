@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "7RAhckNziJw=",
+  "success": true,
+  "projectFilePath": "D:\\FreelancerBTLWEB\\NexusFreelance.Web\\NexusFreelance.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\entityframework\\6.5.1\\entityframework.6.5.1.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.9\\microsoft.aspnet.mvc.5.2.9.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.aspnet.razor\\3.2.9\\microsoft.aspnet.razor.3.2.9.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.aspnet.webpages\\3.2.9\\microsoft.aspnet.webpages.3.2.9.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.web.infrastructure\\2.0.0\\microsoft.web.infrastructure.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
